@@ -1,0 +1,6 @@
+console.log(typeof 10)
+console.log(typeof "Hello, World!")
+console.log(typeof true)
+console.log(typeof false)
+console.log(typeof undefined)
+console.log(typeof null) 
